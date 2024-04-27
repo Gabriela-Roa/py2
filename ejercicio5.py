@@ -7,6 +7,9 @@ print(nombre_usuario [0])
 
 for i in range(0, 12, 1):
     print(abecedario [i])
+    if abecedario [i] == True:
+        print("Grupo A")
+
 
     
     
