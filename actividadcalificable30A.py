@@ -1,10 +1,11 @@
 print("Bienvenidos al juego")
 print("Reglas:")
 print("1.Las palabras deberan conectar unas con otras teniendo en cuanta la ultima letra de la palabra anterior")
-print("2.Si desea salir del juego por favor digite 0")
+inicio= int(input("2.Para iniciar el juego digite 1"))
+print("2.Para finalizar digite 0")
+
 
 cosas = ["casa", "carro", "saco", "camisa", "zapato", "oso", "aro", "mouse", "computador", "anillo", "marcador", "lapiz", "resaltador", "oso", "perro", "oro", "raton","niño", "osito","sapo"]
-
 
 len(cosas)
 
