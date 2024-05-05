@@ -57,15 +57,39 @@ while True:
 
 #ejercicio 6
 
-cliente = int(input("Escriba su edad "))
+"""cliente = int(input("Escriba su edad "))
 
 if cliente < 4:
     print("Puede entrar gratis")
 elif cliente == 4 or 18:
     print("Debe pagar 5 euros")
 elif  cliente > 18:
-    print("Debe pagar 10 euros")
+    print("Debe pagar 10 euros")"""
+
+#ejercicio 7
+
+"""palabra = str(input("Escriba una palabra "))
+
+for i in range(10):
+    print(palabra)"""
     
+#ejercicio 8
+
+"""edad = int(input("Escriba su edad "))
+
+for i in range(edad):
+    print(i)"""
+    
+#ejercicio 9
+
+"""numero = int(input("Escriba un numero entero positivo "))"""
+
+#ejercicio 10
+
+
+
+
+
     
 
       
