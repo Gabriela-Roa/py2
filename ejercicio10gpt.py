@@ -16,6 +16,6 @@ if numero > 0:
         cuenta_regresiva.append(str(i))  # Agregar el número a la lista como una cadena
 
     # Mostrar la cuenta regresiva separada por comas
-    print("Cuenta regresiva desde", numero, "hasta 0:", ", ".join(cuenta_regresiva))
+  
 else:
     print("El número ingresado no es válido. Debe ser un entero positivo.")
