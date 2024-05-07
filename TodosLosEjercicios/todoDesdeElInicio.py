@@ -132,10 +132,20 @@ if usuario % usuario == 1 and usuario % 1 == usuario:
 else:
     print("El numero no es primo")"""
     
-#ejercicio 15     
+#ejercicio 15  
     
+"""palabra = str(input("Escriba una palabra: "))
 
+for i in range(len(palabra)-1, -1, -1):
+    print(palabra[i])"""
+    
+#ejercicio 16
 
+letra = str(input("Escriba una letra: "))
+palabra = str(input("Escriba una palabra: "))
+
+while letra in palabra:
+    print()
     
 
 
