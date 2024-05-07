@@ -22,13 +22,15 @@ print("**************************************************")
 
 iniciar_terminar = int(input("Ingrese 1 o 0: ")) 
 
-while iniciar_terminar == 1:
-    for i in Empresas:
+while iniciar_terminar==1:
+     for i in Empresas:
         for j in Empresas.get(i):
-            if j['departamento'] == "RH" and j["empleados"] >10:
+            if j['departamento'] == "Recursos Humanos" and j["empleados"] >10:
                 print(i)
-        break
-                
+            break
+        
+
+           
             
 
     
