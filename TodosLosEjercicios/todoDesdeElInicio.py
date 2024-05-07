@@ -36,14 +36,14 @@ print(tributar)"""
 
 #ejercicio 5
 
-nombre = str(input("Escriba su nombre "))
+"""nombre = str(input("Escriba su nombre "))
 sexo = str(input("Escriba su sexo "))
 
 abecedario = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n","ñ", "o", "p", "q", "r", "s","t","u","v","w","x","y","z"]
 
 inicial_nombre = nombre[0]
 
-"""while True:
+while True:
     if sexo == "femenino":
         for i in range(0, 12, 1):
             if inicial_nombre in abecedario[i]:
@@ -81,6 +81,7 @@ for i in range(edad):
     print(i)"""
     
 #ejercicio 9
+#falta terminar 
 
 """numero = int(input("Escriba un numero entero positivo "))"""
 
@@ -97,6 +98,7 @@ for i in range(numero, -1, -1):
 print("Cuenta regresiva desde", numero, "hasta 0:", ", ".join(hacia_atras))"""
 
 #ejercicio 11
+#falta terminar 
 
 """cantidad = int(input("Ingrese la cantidad que desea invertir "))
 interes_anual = int(input("Escriba el interes anual "))
@@ -106,10 +108,32 @@ capital_obtenido = cantidad * interes_anual"""
 
 #ejercicio 12
 
-"""for i in range(10):
-    print(1)"""
 
 
+
+#ejercicio 13
+#faltan correjir unas cosas
+"""contraseña = ["holamundo47"]
+
+while True:
+    usuario = str(input("Digite su contraseña: "))
+    if usuario == contraseña:
+        print("Contraseña correcta")
+    else:
+        print("contraseña incorrecta")"""
+
+#ejercicio 14
+#falta arreglar algunas cosas
+
+"""usuario = int(input("Escriba un número entero "))
+
+if usuario % usuario == 1 and usuario % 1 == usuario:
+    print("El numero es primo")
+else:
+    print("El numero no es primo")"""
+    
+#ejercicio 15     
+    
 
 
     
