@@ -36,14 +36,14 @@ print(tributar)"""
 
 #ejercicio 5
 
-"""nombre = str(input("Escriba su nombre "))
+nombre = str(input("Escriba su nombre "))
 sexo = str(input("Escriba su sexo "))
 
 abecedario = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n","ñ", "o", "p", "q", "r", "s","t","u","v","w","x","y","z"]
 
 inicial_nombre = nombre[0]
 
-while True:
+"""while True:
     if sexo == "femenino":
         for i in range(0, 12, 1):
             if inicial_nombre in abecedario[i]:
@@ -106,8 +106,8 @@ capital_obtenido = cantidad * interes_anual"""
 
 #ejercicio 12
 
-for i in range(10):
-    print(1)
+"""for i in range(10):
+    print(1)"""
 
 
 
