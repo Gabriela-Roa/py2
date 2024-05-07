@@ -28,7 +28,7 @@ while iniciar_terminar==1:
             if j['departamento'] == "Recursos Humanos" and j["empleados"] >10:
                 print(i)
             break
-        
+      
 
            
             
