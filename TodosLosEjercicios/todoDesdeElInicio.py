@@ -98,14 +98,20 @@ print("Cuenta regresiva desde", numero, "hasta 0:", ", ".join(hacia_atras))"""
 
 #ejercicio 11
 
-cantidad = int(input("Ingrese la cantidad que desea invertir "))
+"""cantidad = int(input("Ingrese la cantidad que desea invertir "))
 interes_anual = int(input("Escriba el interes anual "))
 años = int(input("Ingrese la cantidad de años "))
 
-capital_obtenido = cantidad * interes_anual 
+capital_obtenido = cantidad * interes_anual"""
 
-for i in range(0, años):
-    print(capital_obtenido(i))
+#ejercicio 12
+
+for i in range(10):
+    print(1)
+
+
+
+
     
 
 
