@@ -1,17 +1,37 @@
 {
-    "eventos":[
+    "eventos": [
         {
-            "nombre": "convivencia",
-            "locacion": "parque",
+            "nombre": "Convivencia",
+            "locacion": "Parque",
             "dia": 5,
             "realizado": true
         }
-
     ],
-    "participantes":[
+    "participantes": [
         {
             "nombre": "juan",
-            "documento": 1116858032,
+            "documento": "11659876",
+            "edad": 19,
+            "cargo": "gerente",
+            "pago": true
+        },
+        {
+            "nombre": "juan",
+            "documento": "123",
+            "edad": 19,
+            "cargo": "gerente",
+            "pago": false
+        },
+        {
+            "nombre": "luis",
+            "documento": "123",
+            "edad": 19,
+            "cargo": "gerente",
+            "pago": true
+        },
+        {
+            "nombre": "isabella",
+            "documento": "123",
             "edad": 19,
             "cargo": "gerente",
             "pago": false
