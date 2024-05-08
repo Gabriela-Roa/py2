@@ -141,11 +141,36 @@ for i in range(len(palabra)-1, -1, -1):
     
 #ejercicio 16
 
-letra = str(input("Escriba una letra: "))
+"""letra = str(input("Escriba una letra: "))
 palabra = str(input("Escriba una palabra: "))
 
-while letra in palabra:
-    print()
+for letra in palabra:
+    print(palabra.count(letra))"""
+    
+#ejercicio 17
+
+#FUNCIONES
+#ejercicio 1
+
+"""def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        resultado = 1
+        for i in range(1, n + 1):
+            resultado *= i
+        return resultado
+
+numero = int(input("Digite un numero: "))
+print("El factorial de", numero, "es:", factorial(numero))"""
+
+#ejercicio 2
+
+
+
+    
+
+
     
 
 
