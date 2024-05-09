@@ -75,4 +75,4 @@ def participantes_del_mes(datos):
     for i in range(len(datos["participantes"])):
         if datos["participantes"][i]["pago"] == True:
             print(datos["participantes"][i]["nombre"], " - ", datos["participantes"][i]["documento"])
-        
+    
