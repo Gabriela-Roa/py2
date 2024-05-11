@@ -4,7 +4,7 @@ from menu import *
 from participantes import *
 
 #Constants
-RUTA_BASE_DE_DATOS = "eventos.json"
+RUTA_BASE_DE_DATOS = "ejemploDeProyecto/eventos.json"
 
 datos = cargar_datos(RUTA_BASE_DE_DATOS)
 
@@ -35,4 +35,4 @@ while True:
         print("Salió!!")
         break
 
-guargar_datos(datos, RUTA_BASE_DE_DATOS) 
+guardar_datos(datos, RUTA_BASE_DE_DATOS) 
